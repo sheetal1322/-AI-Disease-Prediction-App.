@@ -15,7 +15,7 @@ A machine learning web app that predicts diseases based on symptoms selected by 
    ```bash
    pip install -r requirements.txt
 3. Run the app
-   streamlit run app.py
+    streamlit run app.py
 4. Requirements
 The app requires these Python packages:
 pandas==2.2.3
