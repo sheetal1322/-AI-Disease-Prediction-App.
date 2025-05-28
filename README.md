@@ -19,24 +19,24 @@ A machine learning web app that predicts diseases based on symptoms selected by 
    streamlit run app.py
 5. Requirements
 The app requires these Python packages:
-pandas==2.2.3
+  pandas==2.2.3
 
-numpy==2.2.5
+  numpy==2.2.5
 
-scikit-learn
+  scikit-learn
 
-joblib
+  joblib
 
-streamlit==1.45.0
+  streamlit==1.45.0
 
-5.Files in the Repository
-app.py — Streamlit application code
+6.Files in the Repository
+ app.py — Streamlit application code
 
-disease_model.pkl — Trained Random Forest model
+ disease_model.pkl — Trained Random Forest model
 
-label_encoder.pkl — Label encoder for disease names
+ label_encoder.pkl — Label encoder for disease names
 
-requirements.txt — Python dependencies
+ requirements.txt — Python dependencies
 
 Notes
 This app provides AI-based predictions only. It does NOT replace professional medical advice.
