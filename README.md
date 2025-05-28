@@ -15,15 +15,21 @@ A machine learning web app that predicts diseases based on symptoms selected by 
    ```bash
    pip install -r requirements.txt
 3. Run the app
-    :streamlit run app.py
-4. Requirements
+
+   streamlit run app.py
+5. Requirements
 The app requires these Python packages:
-pandas==2.2.3,
-numpy==2.2.5,
-scikit-learn,
-joblib,
-streamlit==1.45.0,
-Files in the Repository
+pandas==2.2.3
+
+numpy==2.2.5
+
+scikit-learn
+
+joblib
+
+streamlit==1.45.0
+
+5.Files in the Repository
 app.py — Streamlit application code
 
 disease_model.pkl — Trained Random Forest model
