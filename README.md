@@ -1,5 +1,9 @@
 # AI Disease Prediction App
 
+### 👩‍💻 Developed By
+- [@sheetal1322](https://github.com/sheetal1322)  
+- [@Kumkum-Saini](https://github.com/Kumkum-Saini)
+
 A machine learning web app that predicts diseases based on symptoms selected by the user.
 
 ## Features
